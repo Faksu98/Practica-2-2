@@ -1,0 +1,3 @@
+#ignora estas carpetas, para guardar info importante
+node_modules
+.env
